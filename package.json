@@ -1,6 +1,6 @@
 {
   "name": "neventemitter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Native EventEmitter for NodeJS",
   "main": "index.js",
   "repository": {
