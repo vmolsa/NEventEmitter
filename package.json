@@ -1,5 +1,5 @@
 {
-  "name": "NEventEmitter",
+  "name": "neventemitter",
   "version": "1.0.1",
   "description": "Native EventEmitter for NodeJS",
   "main": "index.js",
